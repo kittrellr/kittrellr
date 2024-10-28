@@ -3,7 +3,7 @@
 
 I’m skilled in Python, SQL, machine learning, and data visualization and have completed 16 hands-on projects in areas like forecasting, sentiment analysis, and process optimization. My background in guiding business start-ups and refining workflows has given me a unique perspective on data’s role in driving success.
 
-I’m a natural collaborator and lifelong learner, always excited to exchange ideas and insights. Connect with me on  [LinkedIn](www.linkedin.com/in/rachel-s-kittrell-3632a6276) or reach out here to see how we can learn from each other and create solutions together! 
+I’m a natural collaborator and lifelong learner, always excited to exchange ideas and insights. Connect with me on  [LinkedIn](www.linkedin.com/in/rachel-s-kittrell) or reach out here to see how we can learn from each other and create solutions together! 
 
 ## Skills
 - Python Library (Pandas, NumPy, Beautiful Soup)
